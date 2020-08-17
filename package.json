@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "devDependencies": {
+    "@now/node": "^1.7.4",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.7"
+  }
+}
