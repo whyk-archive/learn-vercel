@@ -1,4 +1,4 @@
-# learn-vercel-now
+# learn-vercel
 VercelにAPIがホスティングできるか試す
 
 ## Vercelとは

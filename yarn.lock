@@ -2,15 +2,6 @@
 # yarn lockfile v1
 
 
-"@now/node@^1.7.4":
-  version "1.7.4"
-  resolved "https://registry.yarnpkg.com/@now/node/-/node-1.7.4.tgz#ba7bbab4a8f79b340d7b3cfb199cccf97cf21bc0"
-  integrity sha512-lOOzIYCPEo4u0L508BXD78vNyTyQZcsNnuKEwmKJV6zySZpyGTWHF7ZVYdM5OytxvZo3LgTJ0TXmXN0c365iSg==
-  dependencies:
-    "@types/node" "*"
-    ts-node "8.9.1"
-    typescript "3.9.3"
-
 "@sindresorhus/is@^0.14.0":
   version "0.14.0"
   resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-0.14.0.tgz#9fb3a3cf3132328151f353de4632e01e52102bea"
@@ -100,7 +91,7 @@
   resolved "https://registry.yarnpkg.com/@vercel/go/-/go-1.1.6.tgz#45ac3a6bd98a15b8bf1028b8c141a51fd971ac15"
   integrity sha512-swA2crS08fkPmw4UkR9yjmoL8FOCzuNHLFDqj8oM1V9ni610ibJ7Xk57jI8uyS7bTecQVh8VUxihb+SF0GT+aw==
 
-"@vercel/node@1.8.5":
+"@vercel/node@1.8.5", "@vercel/node@^1.8.5":
   version "1.8.5"
   resolved "https://registry.yarnpkg.com/@vercel/node/-/node-1.8.5.tgz#2c8b9532f1bb25734a9964c52973386ed78022d4"
   integrity sha512-1iw7FSR8Oau6vZB1MWfBnA5q2a/IqRHiSZSbt8lz0dyTF599q8pc5GcSv/TvmrYaEGzh3+N0S4cbmuMCqVlwJg==
